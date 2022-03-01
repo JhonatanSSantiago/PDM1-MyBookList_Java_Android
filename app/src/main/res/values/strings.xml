@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">MyBookList</string>
     <string name="textView_bookList">Book List</string>
+    <string name="text_preco">Preço:</string>
+    <string name="text_categoria">Categoria:</string>
+    <string name="text_titulo">titulo</string>
 </resources>

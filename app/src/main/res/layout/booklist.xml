@@ -24,20 +24,7 @@
             android:layout_marginLeft="5dp"
             android:id="@+id/textView_titulo"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
-            android:text="texto" />
-
-
-
-
+            android:text="@string/text_titulo" />
     </LinearLayout>
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:gravity="center"
-        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
-        android:id="@+id/textView_preco"
-        android:text="texto" />
-
 
 </LinearLayout>

@@ -3,7 +3,7 @@ package com.jhonssantiago.mybooklist;
 /*  imagem
     nome do livro.
     Quando o item for clicado deve ser aberto uma nova atividade com a sinopse do livro, categoria e preço. */
-public class Book {
+public  class Book {
     private int capa;
     private String titulo;
     private String categoria;
